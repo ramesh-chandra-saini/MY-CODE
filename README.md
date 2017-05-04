@@ -56,7 +56,7 @@ Here I post codes which are direct implementation of classical algorithms to reu
     - collectin nltk tags
     
 ### Raw Opinion Text Content ###
-    - Directory to hold opinion in raw format for further processing
+   - Directory to hold opinion in raw format for further processing
 
 ### Yahoo Finance Price ###
 * historical\_Stock\_Price_Data.json
